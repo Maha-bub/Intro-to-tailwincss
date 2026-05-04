@@ -11,4 +11,7 @@ function calculateTriangleArea() {
 
     console.log(base,height);
 
+    // calculate the areo of triangle
+    const area=0.5*base*height;
+
 }
